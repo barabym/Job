@@ -1,0 +1,90 @@
+header{
+    height: 252px;
+    background-image: linear-gradient(270deg, #fefcea, #62f136);
+} 
+.pic{
+    height: 100%;
+    background-image: url(header_image.png);
+    background-size: auto 50%;
+    background-repeat: round;
+    display: flex;
+    /*align-items: center;
+    justify-content: center;*/
+}
+.transporant{
+    background: #4d4d4ecb;
+    outline: 3px solid rgb(252, 250, 250); 
+    outline-offset: -15px;
+    width: 400px;
+    height: 110px;
+    display: flex;
+    /*align-items: center;
+    justify-content: center;*/
+    margin: auto;
+    box-shadow: 10px 10px 5px 0 rgba(25, 25, 26, 0.712);
+}
+.fraza{
+    margin: auto;
+    color: aliceblue;
+    font-size: 2.5em;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+.content{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    /*width: auto;*/
+    height: 200px;
+    border: 2px solid tomato;
+    background: rgba(207, 218, 207, 0.911);
+}
+button{
+    width: 12%;
+    height: 50px;
+    border-radius: 15px;
+    
+
+}
+.but1{
+    background: brown;
+    color: #fefcea;
+    font-size: 1.5em;
+    width: 150px;
+    height: 60px;
+    border: 2px solid brown;
+}
+.but2{
+    background: rgb(15, 151, 214);
+    color: #fefcea;
+    font-size: 1.5em;
+    width: 250px;
+    height: 120px;
+}
+.but3{
+    background: rgb(212, 26, 188);
+    color: #fefcea;
+    font-size: 1.5em;
+    border: 2px solid rgb(212, 26, 188);
+}
+.but4{
+    background: rgb(51, 145, 13);
+    color: #fefcea;
+    font-size: 1.5em;
+    width: 125px;
+    height: 30px;
+}
+.but5{
+    background: rgb(236, 218, 50);
+    color: #fefcea;
+    font-size: 1.5em;
+}
+.but6{
+    background: rgb(236, 9, 9);
+    color: #fefcea;
+    font-size: 1.5em;
+}
+footer{
+    background: rgb(97, 148, 214);
+    height: 150px;
+    padding: 60px;
+}

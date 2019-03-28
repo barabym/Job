@@ -1,0 +1,53 @@
+body{
+   background: burlywood;
+   margin: 0;
+}
+.bannerYes {
+    background: chartreuse;
+    border: 4px double black;
+}
+.bannerNo {
+    background: crimson;
+    border: 4px double black;
+}
+form {
+    background: dodgerblue;
+    width: 400px;
+    margin: auto;
+    padding: 0px 5px;
+}
+.tit, .tit2 {
+    font-size: 0.75em;
+    font-style: italic;
+    color: aliceblue;
+
+}
+.tit2{
+padding-top: 15px;
+
+}
+.col1{
+    width: 300px;
+    background-color: dodgerblue;
+    border: 0;
+    border-bottom: 2px solid black;
+    
+}
+.col2{
+    margin-left: 20px;
+    background-color: dodgerblue;
+    border: 0;
+    border-bottom: 2px solid black;
+}
+.und{
+    font-size: 0.75em;
+    font-style: normal;
+    color: rgb(1, 10, 19);
+}
+img{
+    margin-left: 50%;
+}
+iframe{
+    border: 0;
+    margin-left: 35%;
+} 
