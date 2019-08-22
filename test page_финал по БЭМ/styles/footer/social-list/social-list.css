@@ -1,0 +1,17 @@
+.social-list{
+    
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    color: dimgray;
+    /* margin-bottom: 3%; */
+    /* margin-top: 50px; */
+    /* margin: 20px 5%; */
+    /* line-height: 1.5; */
+    /* font-size: 15px; */
+    /* font-family: 'Times New Roman', Times, serif; */
+    /* font-weight: 100; */
+    /* удаляю системыне отступы*/
+    padding-inline-start: 0px;
+}

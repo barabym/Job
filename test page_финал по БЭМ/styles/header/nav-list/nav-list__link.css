@@ -1,0 +1,9 @@
+.nav-list__link {
+    text-decoration: none;
+    /* Убираем подчёркивание */
+    color: dimgray;
+}
+
+.nav-list__link:hover {
+    color: #e4ae58;
+}
