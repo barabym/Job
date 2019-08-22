@@ -1,0 +1,12 @@
+.body-page {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    /*сбрасываю браузерские настройки*/
+   /* margin: 0;*/
+}
+
+.fa-phone,
+.fa-envelope-o,
+.fa-globe {
+    /* делаю отступ от иконки в контактах */
+    padding-right: 10px;
+}

@@ -1,0 +1,9 @@
+.blok-50-base {
+    flex-basis: 50%;
+}
+
+@media screen and (max-width: 1024px) {
+    .blok-50-base {
+        flex-basis: 100%;
+    }
+}

@@ -1,0 +1,5 @@
+.social-list__link {
+    text-decoration: none;
+    /* Убираем подчёркивание */
+    color: dimgray;
+}

@@ -1,0 +1,16 @@
+.form-ask {
+    margin-left: 7%;
+    margin-right: 7%;
+}
+
+input::placeholder,
+textarea::placeholder {
+    color: white;
+}
+
+input,
+textarea {
+    outline: none;
+    color: white;
+    background: rgba(255, 255, 255, 0);
+}
