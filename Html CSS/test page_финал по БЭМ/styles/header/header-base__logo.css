@@ -1,0 +1,9 @@
+.header-base__logo {
+    flex-basis: 50%;
+    font-size: 18px;
+    font-weight: 900;
+    text-shadow: 01px 1px 0px white;
+    padding-left: 15%;
+    margin-top: 18px;
+    box-sizing: border-box;
+}
